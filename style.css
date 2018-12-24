@@ -1,0 +1,18 @@
+body{
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(coffee-1576552_640.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Revalia', cursive;
+}
+h1{
+  color: white;
+  margin-top: 100px;
+  font-size: 54px;
+}
+.img-thumbnail{
+  width: 250px;
+  height: auto;
+  margin-top: 35px;
+}
